@@ -96,8 +96,8 @@ analytics:
 author:
   name             : "신수민"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "행복한 컴퓨터 교육 설계자"
-  location         : "대한민국, 서울"
+  bio              : "행복한 학생"
+  location         : "대한민국, "
   email            : "maminapink12@gmail.com"
   links:
     - label: "Email"
