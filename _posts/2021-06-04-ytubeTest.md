@@ -3,7 +3,7 @@ layout: single
 title: "병아리 엄마 되는 법"
 toc: true
 toc_sticky: true
-toc_label: "병아리와 함께하는 삶
+toc_label: "병아리와 함께하는 삶"
 categories: "육아"
 ---
 
